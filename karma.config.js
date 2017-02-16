@@ -13,7 +13,7 @@ module.exports = function(config) {
       'test/**/*Spec.js': ['webpack']
     },
     webpack: webpackConfig,
-    reporters: ['progress'],
+    reporters: ['mocha'],
     port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
