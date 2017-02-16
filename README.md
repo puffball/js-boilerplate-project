@@ -9,5 +9,5 @@ A boilerplate project for JavaScript apps using webpack, babel, karma, jasmine a
 
     $ npm run test #run jasmine tests with karma  
 
-    $ npm run lint #run jasmine tests with karma  
+    $ npm run lint #run eslint  
  
