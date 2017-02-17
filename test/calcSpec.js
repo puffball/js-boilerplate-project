@@ -6,7 +6,7 @@ describe('Calculator', () => {
     expect(sum).toBe(7);
   });
 
-  it('should substract two numbers', () => {
+  it('should subtract two numbers', () => {
     const sub = Calculator.sub(5, 2);
     expect(sub).toBe(3);
   });
